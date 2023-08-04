@@ -208,4 +208,45 @@
   color: #721b1b;
 }
 
+@media (max-width: 990px) {
+  .projects-cards {
+    justify-content: center;
+    gap: 30px;
+  }
+}
+@media (max-width: 770px) {
+  .about-me-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .about-me-div {
+    margin-bottom: 80px;
+  }
+}
+@media (max-width: 425px) {
+  .logo-img {
+    width: 35px;
+    height: 35px;
+  }
+  .social-button {
+    height: 65px;
+    width: auto;
+    padding: 5px;
+  }
+  .tech-logo {
+    width: 100px;
+    height: 100px;
+  }
+  .project-card {
+    width: 300px;
+  }
+  .project-img {
+    height: 250px;
+  }
+  .cellphone-button {
+    width: 160px;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
