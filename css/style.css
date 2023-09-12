@@ -193,6 +193,11 @@
   font-weight: bold;
 }
 
+.project-buttons {
+  display: flex;
+  justify-content: space-around;
+}
+
 #footer {
   background-color: #242323;
   text-align: center;
