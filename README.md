@@ -1,4 +1,6 @@
 Criação de site-portifolio.
-Ainda precisa de alguns ajustes
+Ajustes já feitos.
+
+[link](https://phfernands.github.io/portifolio/)
 
 Tecnologia usadas: HTML, SASS e Bootstrap
